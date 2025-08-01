@@ -109,5 +109,3 @@ DB_NAME=bank_db
 * Integration with real-time APIs
 * Interactive dashboards (using Streamlit/Plotly Dash)
 * Predictive modeling for loan default risk.
-
-Let me know if you want a version tailored to a specific dataset or with sample code included.
